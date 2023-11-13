@@ -1,6 +1,6 @@
-![Auto Assign](https://github.com/generalface/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+![Auto Assign](https://github.com/generalface/homo-repo/actions/workflows/auto-assign.yml/badge.svg)
 
-![Proof HTML](https://github.com/generalface/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+![Proof HTML](https://github.com/generalface/homo-repo/actions/workflows/proof-html.yml/badge.svg)
 
 # generalface
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
